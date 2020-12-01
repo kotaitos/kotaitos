@@ -1,16 +1,22 @@
-### Hi there 👋
+### Profile
+九州工業大学　情報工学部　学部３年
 
-<!--
-**IAMKOTARO/IAMKOTARO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Top skill
+|  language  |  span  |
+| :---- | :----: |
+|**Python**  |  **3 year**  |
+|  C  |  3 year  |
+|  C++  |  1 year  |
+|  Java  |  1 year  |
+|  JavaScript  |  0.5 year  |
+|  Prolog  |  0.5 year  |
 
-Here are some ideas to get you started:
+### Career
+- Dentalight 2019 10 ~ now 
+- ernie  2020 10 ~ now
+- LaboColla(community) 2020 5 ~ now
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Achievement
+- ⛺️キャンプハッカソン　出場
+- 🟩Civictech Challenge Cup U-22 出場
+- 🍣SUSHI Lightning Talk 最優秀賞
