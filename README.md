@@ -14,9 +14,10 @@
 ### Career
 - Dentalight 2019 10 ~ now 
 - ernie  2020 10 ~ now
-- LaboColla(community) 2020 5 ~ now
+- LaboColla 2020 5 ~ now
 
 ### Achievement
 - ⛺️キャンプハッカソン　出場
 - 🟩Civictech Challenge Cup U-22 出場
 - 🍣SUSHI Lightning Talk 最優秀賞
+- enPiT 2020 結果待ち
