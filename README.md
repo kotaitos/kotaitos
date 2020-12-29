@@ -24,4 +24,4 @@
 - ⛺️キャンプハッカソン　出場
 - 🟩Civictech Challenge Cup U-22 出場
 - 🍣SUSHI Lightning Talk 最優秀賞
-- 🏫enPiT 2020 結果待ち
+- 🏫enPiT 2020 プレゼンテーション賞
