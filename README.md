@@ -16,8 +16,8 @@
 |  Prolog  |  0.5 year  |
 
 ### Career
-- Dentalight 2019 10 ~ now 
-- ernie  2020 10 ~ now
+- 株式会社Dentalight 2019 10 ~ now 
+- 株式会社ernie  2020 10 ~ now
 - LaboColla 2020 5 ~ now
 
 ### Achievement
