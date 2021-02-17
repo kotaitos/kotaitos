@@ -9,7 +9,9 @@
 |  language  |  span  |
 | :---- | :----: |
 |**Python**  |  **3 year**  |
-
+- tools
+  - Git
+  - Docker
 - Web engineering
   - Flask
   - Django
