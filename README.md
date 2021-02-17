@@ -9,11 +9,6 @@
 |  language  |  span  |
 | :---- | :----: |
 |**Python**  |  **3 year**  |
-|  C  |  3 year  |
-|  C++  |  1 year  |
-|  Java  |  1 year  |
-|  JavaScript  |  0.5 year  |
-|  Prolog  |  0.5 year  |
 
 ### Career
 - 株式会社Dentalight 2019 10 ~ now 
