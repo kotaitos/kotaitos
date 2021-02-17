@@ -22,17 +22,17 @@
 
 ### Portfolio
 - LaboCollaのWebアプリを開発  
-URL : https://www.labocolla-it.com/  
+*URL : https://www.labocolla-it.com/*  
 概要 : LaboCollaコミュニティのメインサービス
 言語 : Python  
 フレーワーク : Flask  
 インフラ : GCP（Firebase含む）  
       
-- Dentalightのサブカルテアプリ、歯式認識APIの開発
-概要 : サブカルテ（手書きのデータ）を電子化する。
-言語 : Python
-フレームワーク・ライブラリ : Django, Angular, Tensorflowなど
-インフラ : GCP, AWS
+- Dentalightのサブカルテアプリ、歯式認識APIの開発  
+概要 : サブカルテ（手書きのデータ）を電子化する。  
+言語 : Python  
+フレームワーク・ライブラリ : Django, Angular, Tensorflowなど  
+インフラ : GCP, AWS  
 
 ### Career
 - 株式会社Dentalight 2019 10 ~ now 
