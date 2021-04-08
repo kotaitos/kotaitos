@@ -18,7 +18,8 @@
 - AI engineering
   - 画像認識
   - 音声認識
-- Cloud infrastructure
+  - 自然言語処理
+- Cloud 
   - GCP(Firebase)
   - AWS
 
