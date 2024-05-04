@@ -6,9 +6,9 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kotaitos&layout=compact&langs_count=8&card_width=320&theme=radical" />
 </a>
 
-# 💜Language and Tools
-[![My Skills](https://skillicons.dev/icons?i=vscode,python,typescript,javascript,html,css,vue,nuxt)](https://skillicons.dev)
+# 💜Favorite
+[![My Skills](https://skillicons.dev/icons?i=python,typescript,javascript,html,css,vue,nuxt,docker,vscode,git)](https://skillicons.dev)
 
 # 💎Learning
-[![My Skills](https://skillicons.dev/icons?i=react,next)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,next,aws,gcp)](https://skillicons.dev)
 
