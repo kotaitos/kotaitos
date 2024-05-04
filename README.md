@@ -7,7 +7,7 @@
 </a>
 
 # 💜Language and Tools
-[![My Skills](https://skillicons.dev/icons?i=vscode,python,typescript,vue,nuxt)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,python,typescript,javascript,html,css,vue,nuxt)](https://skillicons.dev)
 
 # 💎Learning
 [![My Skills](https://skillicons.dev/icons?i=react,next)](https://skillicons.dev)
