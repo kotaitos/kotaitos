@@ -7,8 +7,8 @@
 </a>
 
 # 💜Favorite
-[![My Skills](https://skillicons.dev/icons?i=python,typescript,javascript,html,css,vue,nuxt,docker,vscode,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,typescript,javascript,vue,nuxt,docker,vscode)](https://skillicons.dev)
 
 # 💎Learning
-[![My Skills](https://skillicons.dev/icons?i=react,next,aws,gcp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,next,aws,gcp,azure)](https://skillicons.dev)
 
